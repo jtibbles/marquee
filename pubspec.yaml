@@ -11,7 +11,7 @@ environment:
 dependencies:
   fading_edge_scrollview:  
     git: 
-      url: git://github.com/jtibbles/fading_edge_scrollview.git
+      url: https://github.com/jtibbles/fading_edge_scrollview.git
       ref: master
   flutter:
     sdk: flutter
