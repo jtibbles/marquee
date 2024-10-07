@@ -1,8 +1,8 @@
 name: marquee
 description: "A Flutter widget that scrolls text infinitely. Provides many
   customizations including custom scroll directions, durations, curves as well
-  as pauses after every round."
-version: 2.3.0
+  as pauses after every round - edited to point to an edited fading_edge_scroll_view"
+version: 2.3.1
 repository: https://github.com/MarcelGarus/marquee
 
 environment:
@@ -10,7 +10,7 @@ environment:
   sdk: "^3.5.0"
 dependencies:
   fading_edge_scrollview:
-  git: url: https://github.com/jtibbles/fading_edge_scrollview.git
+  git: url: https://github.com/jtibbles/fading_edge_scroll_view.git
   ref: master
   flutter:
     sdk: flutter
