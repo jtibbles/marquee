@@ -9,7 +9,9 @@ environment:
   flutter: ">=3.0.0"
   sdk: "^3.5.0"
 dependencies:
-  fading_edge_scrollview: ^4.1.1
+  fading_edge_scrollview:
+  git: url: https://github.com/jtibbles/fading_edge_scrollview.git
+  ref: master
   flutter:
     sdk: flutter
 
